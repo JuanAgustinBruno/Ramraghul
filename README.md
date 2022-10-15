@@ -17,17 +17,69 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](call_me_rowdy_111) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](@Raghul195308221) 
 
-### Languages and tools 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+       <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+     <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+    <td align='center' width="190">
+         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="120">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" width="120">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="80">
+    </td>
+ <tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" width="130">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
+  </tr>
+</tr>
+</table>
 
 ### My Github Stats 
 <p align="center">
