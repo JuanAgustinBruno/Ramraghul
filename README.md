@@ -13,6 +13,7 @@
 - ⚡ Act like a fool think like a brilliant
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramraghul&label=Profile%20views&color=0e75b6&style=flat" alt="count badge" /> </p> 
 
+![Preview](https://itstommi.vercel.app/api?spin=true&theme=dark)
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p  align='center'>
